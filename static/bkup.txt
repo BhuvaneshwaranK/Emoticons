@@ -1,0 +1,29 @@
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.scss.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/toolkit-inverse.css') }}">
+    <link rel="stylesheet"  type="text/css" href="{{ url_for('static', filename='css/application.css') }}">
+    <link rel="stylesheet"  type="text/css" href="{{ url_for('static', filename='css/ball.css') }}">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/chart.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/toolkit.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/application.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.stickytableheaders.min.js') }}"></script>
+
+
